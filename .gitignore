@@ -3,3 +3,29 @@
 
 # Ada Library Information
 *.ali
+node_modules 
+package-lock.json
+package.json
+todo.cy.js
+actions.cy.js
+aliasing.cy.js
+assertions.cy.js
+connectors.cy.js
+cookies.cy.js
+cypress_api.cy.js
+files.cy.js
+location.cy.js
+misc.cy.js
+navigation.cy.js
+network_requests.cy.js
+querying.cy.js
+spies_stubs_clocks.cy.js
+storage.cy.js
+traversal.cy.js
+utilities.cy.js
+viewport.cy.js
+waiting.cy.js
+window.cy.js
+example.json
+cypress.config.js
+test2
